@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo%20Schmidt%20Borges-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-s-3680b8118/)](https://www.linkedin.com/in/leonardo-s-3680b8118/) 
 
-🧑‍💻  I’m currently working as Software Engineer Jr. at Startaideia.
+🧑‍💻  I’m currently working as Software Engineer at Startaideia.
 
 📫  You can reach me sending me a message in LinkedIn or e-mail: perottoleonardos@gmail.com
 
