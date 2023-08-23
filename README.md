@@ -4,7 +4,7 @@
 
 🧑‍💻  I’m currently working as Software Engineer at Startaideia.
 
-📫  You can reach me sending me a message in LinkedIn or e-mail: perottoleonardos@gmail.com
+📫  You can reach me sending me a message in LinkedIn or e-mail
 
 ***
 ### 🛠️ GitHub Stats
